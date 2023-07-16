@@ -1,3 +1,2 @@
 # ProxyAuto
-css and html based responsive website
-Update here the changes you make 
+Css and html based responsive website
